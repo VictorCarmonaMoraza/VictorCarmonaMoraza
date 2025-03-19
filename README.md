@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Victor Carmona 
 ### 💻 Full Stack Engineer | AI/ML Enthusiast | Writer  
 
-<div class="text-center">
+<!-- <div class="text-center">
 [<img src="https://data.bloggif.com/distant/user/store/d/3/4/d/9c741c40b249ffc91fe36a6566a5d43d.gif" alt="👋 Hi there! I'm (Victor Carmona)" title="👋 Hi there! I'm (Victor Carmona)" style="text-align-center"/>]
+</div> -->
+
+<div align="center">
+  <img src="https://data.bloggif.com/distant/user/store/d/3/4/d/9c741c40b249ffc91fe36a6566a5d43d.gif" alt="👋 Hi there! I'm Victor Carmona" title="👋 Hi there! I'm Victor Carmona">
 </div>
 
 <!-- <a href="https://es.bloggif.com/" title="Edición de fotos"><img src="https://data.bloggif.com/distant/user/store/d/3/4/d/9c741c40b249ffc91fe36a6566a5d43d.gif" alt="Montaje creado Bloggif" width="281" height="281" /></a> -->
