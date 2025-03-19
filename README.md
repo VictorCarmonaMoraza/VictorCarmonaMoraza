@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Victor Carmona 
 ### 💻 Full Stack Engineer | AI/ML Enthusiast | Writer  
 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Victor Carmona)" title="👋 Hi there! I'm (Victor Carmona)"/>]
+
 🚀 Software Engineer 2 at **ICA** | Building scalable platforms at the intersection of **data, AI/ML, and infra**. Passionate about developer experience, product thinking, and intelligent systems.
 
 <!-- Alternate id - [@pkelucidata](https://github.com/pkelucidata) -->
