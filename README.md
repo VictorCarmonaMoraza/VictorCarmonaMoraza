@@ -1,35 +1,76 @@
-# 👋 Hi, I'm Victor Carmona 
-### 💻 Full Stack Engineer | AI/ML Enthusiast | Writer  
+# 👋 Hi, I'm Victor Carmona
 
-<!-- <div class="text-center">
-[<img src="https://data.bloggif.com/distant/user/store/d/3/4/d/9c741c40b249ffc91fe36a6566a5d43d.gif" alt="👋 Hi there! I'm (Victor Carmona)" title="👋 Hi there! I'm (Victor Carmona)" style="text-align-center"/>]
-</div> -->
+### AI Software Engineer | Full Stack Developer | Generative AI • Machine Learning • Python • Angular • .NET
 
-<div align="center">
-  <img src="https://data.bloggif.com/distant/user/store/d/3/4/d/9c741c40b249ffc91fe36a6566a5d43d.gif" alt="👋 Hi there! I'm Victor Carmona" title="👋 Hi there! I'm Victor Carmona">
-</div>
+I'm a Software Engineer passionate about building intelligent, scalable, and high-performance applications.
 
-<!-- <a href="https://es.bloggif.com/" title="Edición de fotos"><img src="https://data.bloggif.com/distant/user/store/d/3/4/d/9c741c40b249ffc91fe36a6566a5d43d.gif" alt="Montaje creado Bloggif" width="281" height="281" /></a> -->
+With experience in **Full Stack Development**, I specialize in designing modern software solutions using **Python, Angular, and .NET**, while expanding my expertise in **Artificial Intelligence, Generative AI, Large Language Models (LLMs), and Machine Learning**.
 
-🚀 Software Engineer 2 at **ICA** | Building scalable platforms at the intersection of **data, AI/ML, and infra**. Passionate about developer experience, product thinking, and intelligent systems.
+Currently focused on:
 
-<!-- Alternate id - [@pkelucidata](https://github.com/pkelucidata) -->
+- 🤖 Artificial Intelligence & Generative AI
+- 🧠 Machine Learning & Deep Learning
+- 💻 Full Stack Development
+- ☁️ Cloud & Scalable Architectures
+- ⚙️ Clean Architecture & Software Design
+- 🚀 High Performance Applications
 
-### ⚡ Tech Snapshot
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,materialui,django,flask,fastapi,nodejs,sklearn,pytorch,aws,docker,terraform,githubactions,jest,cypress" />
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,dotnet,cs,angular,ts,js,react,nodejs,postgres,mongodb,docker,aws,git,github,vscode,visualstudio" />
 </p>
 
-<!-- ### ✍️ Writing & Blogs  
-📚 Featured on: [Substack](https://pratikkumar.substack.com) · [GitHub Blog](https://pr2tik1.github.io) · [Towards AI](https://towardsai.net/author/pratik-kumar) -->
+---
 
-### 🤝 Connect with Me  
-[💼 LinkedIn](https://www.linkedin.com/in/vmcarmona/) · [🧑‍💻 GitHub](https://github.com/VictorCarmonaMoraza) · 📧 **victorcarmona9035@hotmail.com**
+## 🧠 AI & Data Science
 
-Thanks for visiting! ✨ Let's build something awesome together.
+- Python
+- NumPy
+- Pandas
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- OpenCV
+- LangChain
+- LangGraph
+- LLMs
+- RAG
+- AI Agents
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="400">
-</p> -->
+---
+
+## 💼 Professional Interests
+
+- Artificial Intelligence
+- Generative AI
+- Machine Learning
+- Software Architecture
+- Cloud Computing
+- Backend Engineering
+- Frontend Engineering
+- Data Engineering
+- AI-powered Applications
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vmcarmona">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/VictorCarmonaMoraza">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+📧 **victorcarmona9035@hotmail.com**
+
+---
+
+> *"Building intelligent software that solves real-world problems."*
